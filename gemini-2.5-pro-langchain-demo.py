@@ -7,6 +7,6 @@ load_dotenv()
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-pro")
 
 
-response = llm.invoke("What is the capital of France?")
+response = llm.invoke("What is AgenticAI?")
 
 print(response.content)

@@ -4,3 +4,6 @@ google-generativeai
 langchain-openai
 langchain-google-genai
 #langchain-core
+langchain_ollama
+langsmith
+langchain_core
