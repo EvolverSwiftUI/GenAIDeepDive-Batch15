@@ -7,3 +7,4 @@ langchain-google-genai
 langchain_ollama
 langsmith
 langchain_core
+streamlit
